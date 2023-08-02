@@ -2,6 +2,7 @@
 <h3 align="center">A passionate flutter developer</h3>
 
 - 🌱 I’m currently learning **Flutter**
+- Ask me anytime
 
 
 <p align="left">
