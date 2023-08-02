@@ -2,8 +2,8 @@
 <h3 align="center">A passionate flutter developer</h3>
 
 - 🌱 I’m currently learning **Flutter**
--💬 Ask me about anything
--⚡ Fun fact always learning
+- 💬 Ask me about anything
+- ⚡ Fun fact always learning
 
 <p align="left">
 </p>
