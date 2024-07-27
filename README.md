@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Asp.NetCore**
 - 💬 Ask me about anything
 - ⚡ Fun fact always learning
 
