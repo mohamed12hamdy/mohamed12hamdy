@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **ASP .NET Core**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 💬 Ask me about **Anything**
 
